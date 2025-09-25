@@ -5,7 +5,7 @@ This is a front-end prototype of a digital queue management system built with Re
 <!-- It's highly recommended to add a screenshot or GIF of the application in action! -->
 <!-- ![Digital Queue System Screenshot](path/to/your/screenshot.png) -->
 
-## ✨ Key Features
+## Key Features
 
 - **User View:** Get a ticket and track your real-time status and position in the queue.
 - **Admin Dashboard:** A secure, login-protected dashboard for staff to manage the entire system.
@@ -16,14 +16,14 @@ This is a front-end prototype of a digital queue management system built with Re
 - **Responsive Design:** Styled with Tailwind CSS for a clean and functional interface on both desktop and mobile devices.
 - **Persistent User Session:** Remembers your ticket number even after a page refresh using the browser's Local Storage.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **[React 19](https://react.dev/):** For building the component-based user interface.
 - **[TypeScript](https://www.typescriptlang.org/):** For adding static types to enhance code quality and maintainability.
 - **[Tailwind CSS](https://tailwindcss.com/):** Used via a CDN for utility-first styling.
 - **React Context API:** For managing global application state (e.g., queue data, authentication) without prop drilling.
 
-## 🚀 Getting Started
+## Getting Started
 
 This project is set up to run directly in the browser without any build steps.
 
@@ -52,7 +52,7 @@ This project is set up to run directly in the browser without any build steps.
 
 4. Your browser will automatically open the application, typically at an address like `http://127.0.0.1:5500`.
 
-## 📖 How to Use
+## How to Use
 
 ### As a User
 
@@ -72,7 +72,7 @@ This project is set up to run directly in the browser without any build steps.
     - **Manage Tickets:** Call the next person in line or call for assignment, depending on the mode.
     - **Navigate to Rooms:** In Two-Stage mode, click "Manage Room" to see a detailed view of a specific room's queue.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /
@@ -92,6 +92,6 @@ This project is set up to run directly in the browser without any build steps.
 └── index.html                  # The main HTML file
 ```
 
-## 📄 License
+## License
 
 This project is open-source. Feel free to use it as a learning resource or a starting point for your own applications.
