@@ -37,7 +37,7 @@ This project is set up to run directly in the browser without any build steps.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/nurulashraf/digital-queue-system-frontend
    ```
 
 2. **Navigate to the project directory:**
@@ -76,20 +76,20 @@ This project is set up to run directly in the browser without any build steps.
 
 ```
 /
-├── components/       # Reusable React components
-│   ├── common/       # General-purpose components (Button, Card, etc.)
+├── components/                 # Reusable React components
+│   ├── common/                 # General-purpose components (Button, Card, etc.)
 │   ├── AdminDashboard.tsx
 │   ├── LandingPage.tsx
 │   ├── LoginPage.tsx
 │   └── RoomPage.tsx
-├── hooks/            # Custom React hooks for logic
-│   ├── useQueueState.ts # The core state management logic for the entire queue system
+├── hooks/                      # Custom React hooks for logic
+│   ├── useQueueState.ts        # The core state management logic for the entire queue system
 │   └── useLocalStorage.ts
-├── App.tsx           # Main application component, handles routing and layout
-├── index.tsx         # The main entry point that renders the App
-├── types.ts          # Shared TypeScript type definitions and enums
-├── constants.ts      # Hardcoded constants like login credentials and room names
-└── index.html        # The main HTML file
+├── App.tsx                     # Main application component, handles routing and layout
+├── index.tsx                   # The main entry point that renders the App
+├── types.ts                    # Shared TypeScript type definitions and enums
+├── constants.ts                # Hardcoded constants like login credentials and room names
+└── index.html                  # The main HTML file
 ```
 
 ## 📄 License
